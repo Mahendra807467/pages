@@ -1,0 +1,33 @@
+.header {
+    background-color: #282c34;
+    padding: 1rem;
+    color: white;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .navbar ul li {
+    font-size: 1.2rem;
+  }
+  
+  .navbar ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navbar ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Container for pages */
+  .container {
+    padding: 2rem;
+    margin: 0 auto;
+    max-width: 1200px;
+  }

@@ -1,0 +1,17 @@
+.todo-list {
+    margin: 20px;
+  }
+  
+  .todo-item {
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+  }
+  
+  .todo-item h4 {
+    margin: 0;
+  }
+  
+  .todo-item select {
+    padding: 5px;
+  }
